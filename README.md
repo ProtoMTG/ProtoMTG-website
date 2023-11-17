@@ -1,6 +1,6 @@
 # ProtoMTG
 
-This is the repository that contains source code for the [ProtoMTG website](https://jzhou73.github.io/ProtoMTG/).
+This is the repository that contains source code for the [ProtoMTG website](https://protomtg.github.io/ProtoMTG/).
 
 <!-- If you find Nerfies useful for your work please cite:
 ```
